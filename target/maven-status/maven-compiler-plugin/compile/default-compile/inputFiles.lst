@@ -1,0 +1,13 @@
+F:\Formation\Projet 5\ParkingSystem\src\main\java\com\parkit\parkingsystem\dao\ParkingSpotDAO.java
+F:\Formation\Projet 5\ParkingSystem\src\main\java\com\parkit\parkingsystem\model\ParkingSpot.java
+F:\Formation\Projet 5\ParkingSystem\src\main\java\com\parkit\parkingsystem\constants\DBConstants.java
+F:\Formation\Projet 5\ParkingSystem\src\main\java\com\parkit\parkingsystem\util\InputReaderUtil.java
+F:\Formation\Projet 5\ParkingSystem\src\main\java\com\parkit\parkingsystem\service\FareCalculatorService.java
+F:\Formation\Projet 5\ParkingSystem\src\main\java\com\parkit\parkingsystem\service\ParkingService.java
+F:\Formation\Projet 5\ParkingSystem\src\main\java\com\parkit\parkingsystem\config\DataBaseConfig.java
+F:\Formation\Projet 5\ParkingSystem\src\main\java\com\parkit\parkingsystem\constants\ParkingType.java
+F:\Formation\Projet 5\ParkingSystem\src\main\java\com\parkit\parkingsystem\service\InteractiveShell.java
+F:\Formation\Projet 5\ParkingSystem\src\main\java\com\parkit\parkingsystem\App.java
+F:\Formation\Projet 5\ParkingSystem\src\main\java\com\parkit\parkingsystem\dao\TicketDAO.java
+F:\Formation\Projet 5\ParkingSystem\src\main\java\com\parkit\parkingsystem\model\Ticket.java
+F:\Formation\Projet 5\ParkingSystem\src\main\java\com\parkit\parkingsystem\constants\Fare.java
